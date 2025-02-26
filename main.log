@@ -1,0 +1,164 @@
+[INFO] 2024-10-20 14:06:16,454 : Started running main.py: args: Namespace(table='symbol', limit=5)
+[INFO] 2024-10-20 14:08:06,136 : Started running main.py: args: Namespace(table='symbol', limit=5)
+[INFO] 2024-10-20 14:09:12,677 : Started running main.py: args: Namespace(table='symbol', limit=5)
+[INFO] 2024-10-20 14:09:28,042 : Started running main.py: args: Namespace(table='symbol', limit=5)
+[INFO] 2024-10-20 14:13:54,350 : Started running main.py: args: Namespace(table='symbol', limit=5)
+[INFO] 2024-10-20 14:18:21,225 : Started running main.py: args: Namespace(table='symbol', limit=5)
+[INFO] 2024-10-20 14:19:36,174 : Started running main.py: args: Namespace(table='symbol', limit=5)
+[INFO] 2024-10-20 14:20:53,337 : Started running main.py: args: Namespace(table='symbol', limit=5)
+[INFO] 2024-10-20 14:22:01,772 : Started running main.py: args: Namespace(table='symbol', limit=5)
+[INFO] 2024-10-20 14:22:34,084 : Started running main.py: args: Namespace(table='symbol', limit=5)
+[INFO] 2024-10-20 14:23:03,722 : Started running main.py: args: Namespace(table='symbol', limit=5)
+[INFO] 2024-10-20 14:26:00,857 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2024-10-20 14:26:15,848 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2024-10-20 14:26:28,419 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2024-10-20 14:27:32,738 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2024-10-20 14:31:19,753 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2024-10-20 14:32:11,459 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2024-10-20 14:32:36,621 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2024-10-20 14:32:54,110 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2024-10-20 14:33:24,358 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2024-10-20 14:34:11,569 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-21 23:16:46,246 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-22 22:44:54,219 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-22 22:45:07,936 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-22 22:46:52,405 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-22 22:47:18,274 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-22 23:01:19,963 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-22 23:02:10,719 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[ERROR] 2025-02-22 23:02:11,423 : key [symbol] not found
+[INFO] 2025-02-22 23:02:40,134 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[ERROR] 2025-02-22 23:02:40,840 : key [symbol] not found
+[ERROR] 2025-02-22 23:02:40,840 : key [symbol] not found
+[INFO] 2025-02-22 23:06:33,410 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-22 23:07:17,980 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-22 23:09:47,570 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-22 23:25:23,107 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-22 23:27:50,911 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-22 23:28:12,701 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-22 23:28:35,506 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-23 16:45:03,235 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-23 17:15:45,454 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-23 17:19:29,866 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-23 17:19:54,580 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-23 17:20:28,754 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-23 17:24:38,563 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-23 17:28:09,836 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-23 17:32:57,434 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-23 17:34:56,703 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-23 17:36:25,524 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-23 18:49:59,031 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-23 18:50:41,582 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-23 18:51:28,339 : Started running main.py: args: Namespace(table='3m', limit=5, plot=True, candle=True)
+[INFO] 2025-02-23 18:57:21,812 : Started running main.py: args: Namespace(table='symbol', limit=5, plot=True, candle=True)
+[INFO] 2025-02-23 19:00:48,962 : Started running main.py: args: Namespace(table='3m', limit=5, plot=True, candle=True)
+[INFO] 2025-02-23 19:22:52,610 : Started running main.py: args: Namespace(table='symbol', limit=5, start=None, end=None, plot=True, candle=True)
+[INFO] 2025-02-24 17:25:47,253 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=False, candle=True)
+[INFO] 2025-02-24 17:30:05,467 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=False, candle=True)
+[INFO] 2025-02-24 17:34:51,599 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=False, candle=True)
+[INFO] 2025-02-24 17:38:58,476 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=['all'], candle=True)
+[INFO] 2025-02-24 17:39:51,470 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=['all'], candle=True)
+[INFO] 2025-02-24 17:41:18,541 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=['all'], candle=True)
+[INFO] 2025-02-24 17:50:21,196 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=['all'], candle=True)
+[INFO] 2025-02-24 17:52:20,656 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=['all'], candle=True)
+[INFO] 2025-02-24 17:55:53,290 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=['all'], candle=True)
+[INFO] 2025-02-24 17:56:08,438 : Started running main.py: args: Namespace(table='symbol', limit=5, start=None, end=None, plot=None, candle=True)
+[INFO] 2025-02-24 17:58:41,042 : Started running main.py: args: Namespace(table=None, limit=None, start=None, end=None, plot=['all'], candle=True)
+[INFO] 2025-02-24 18:03:51,118 : Started running main.py: args: Namespace(table=None, limit=None, start=None, end=None, plot=['all'], candle=True)
+[INFO] 2025-02-24 18:07:11,184 : Started running main.py: args: Namespace(table=None, limit=None, start=None, end=None, plot=['back'], candle=True)
+[INFO] 2025-02-24 18:07:15,998 : Started running main.py: args: Namespace(table=None, limit=None, start=None, end=None, plot=['all'], candle=True)
+[INFO] 2025-02-24 18:32:27,565 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=['all'], candle=True)
+[INFO] 2025-02-24 18:32:57,338 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=['all'], candle=True)
+[INFO] 2025-02-24 18:33:00,840 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=[], candle=True)
+[INFO] 2025-02-24 18:33:40,897 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=[], candle=True)
+[INFO] 2025-02-24 18:33:56,543 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=[], candle=True)
+[INFO] 2025-02-24 18:34:22,903 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=['all'], candle=True)
+[INFO] 2025-02-24 18:34:55,321 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=['all'], candle=True)
+[INFO] 2025-02-24 18:36:01,812 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=['all'], candle=True)
+[INFO] 2025-02-24 18:36:18,090 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=['all'], candle=True)
+[INFO] 2025-02-24 18:36:43,450 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=['all'], candle=True)
+[INFO] 2025-02-24 18:38:00,294 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=['all'], candle=True)
+[INFO] 2025-02-24 18:52:56,986 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=['aapl', 'goog', 'meta'], candle=True)
+[INFO] 2025-02-24 18:53:24,648 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=['aapl', 'goog', 'meta'], candle=True)
+[INFO] 2025-02-24 18:54:19,366 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=['aapl', 'goog', 'meta'], candle=True)
+[INFO] 2025-02-24 18:54:48,663 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=['aapl', 'goog', 'meta'], candle=True)
+[INFO] 2025-02-24 18:55:04,029 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=['all'], candle=True)
+[INFO] 2025-02-24 18:55:30,778 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=['aapl', 'goog', 'meta'], candle=True)
+[INFO] 2025-02-24 18:56:11,883 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end='2024-01-01', plot=['aapl', 'goog', 'meta'], candle=True)
+[INFO] 2025-02-24 19:00:46,052 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end='2024-01-01', plot=['aapl', 'goog', 'meta'], candle=True)
+[INFO] 2025-02-24 19:00:54,064 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=['all'], candle=True)
+[INFO] 2025-02-26 15:21:23,089 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end=None, plot=['all'], candle=None)
+[INFO] 2025-02-26 15:21:35,459 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end='2024-01-01', plot=['aapl', 'goog', 'meta'], candle=None)
+[INFO] 2025-02-26 16:24:31,765 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[INFO] 2025-02-26 16:26:05,983 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[INFO] 2025-02-26 16:29:51,067 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[INFO] 2025-02-26 16:31:29,692 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[INFO] 2025-02-26 16:35:15,099 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 16:35:15,383 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 16:38:57,368 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 16:38:57,651 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 16:39:32,114 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 16:39:32,445 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 16:39:46,800 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 16:39:47,064 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 16:40:14,798 : Started running main.py: args: Namespace(table=None, limit=None, start=None, end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 16:40:15,529 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 16:40:51,903 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 16:40:52,178 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 16:41:09,809 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 16:41:10,084 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 16:45:36,936 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 16:45:37,329 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 16:46:16,801 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 16:46:17,106 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 16:46:38,375 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 16:46:38,670 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 16:47:51,347 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 16:47:51,644 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 16:48:19,470 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 16:48:19,767 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 16:49:03,721 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 16:49:04,051 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 16:50:35,850 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 16:50:36,156 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 16:57:14,098 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 16:57:14,507 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 16:58:10,214 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 16:58:10,552 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 16:58:27,534 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 16:58:27,831 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 22:55:04,156 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 22:55:04,595 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 22:56:49,927 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 22:56:50,247 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 22:58:41,593 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 22:58:41,941 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 22:59:32,937 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 22:59:33,267 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 23:00:43,156 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[INFO] 2025-02-26 23:00:54,854 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 23:00:55,181 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 23:02:56,818 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 23:02:57,150 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 23:03:39,488 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='aapl')
+[WARNING] 2025-02-26 23:03:39,820 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 23:04:24,955 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='goog')
+[WARNING] 2025-02-26 23:04:25,303 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 23:09:55,175 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='goog')
+[INFO] 2025-02-26 23:10:06,624 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='goog')
+[WARNING] 2025-02-26 23:10:06,967 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 23:15:01,134 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='goog')
+[WARNING] 2025-02-26 23:15:01,488 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 23:16:26,153 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='goog')
+[INFO] 2025-02-26 23:17:03,754 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='goog')
+[INFO] 2025-02-26 23:17:09,537 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='goog')
+[WARNING] 2025-02-26 23:17:09,860 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 23:18:29,235 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='goog')
+[WARNING] 2025-02-26 23:18:29,569 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 23:21:53,414 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='amzn')
+[WARNING] 2025-02-26 23:21:53,812 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 23:23:24,992 : Started running main.py: args: Namespace(table=None, limit=None, start='2024-03-01', end=None, plot=None, candle='amzn')
+[WARNING] 2025-02-26 23:23:25,324 : No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+[INFO] 2025-02-26 23:23:49,231 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end='2024-01-01', plot=['aapl', 'goog', 'meta'], candle=None)
+[INFO] 2025-02-26 23:24:00,465 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end='2024-01-01', plot=['all'], candle=None)
+[INFO] 2025-02-26 23:35:09,103 : Started running main.py: args: Namespace(table=None, limit=None, start='2023-01-01', end='2024-01-01', plot=['all'], candle=None)
